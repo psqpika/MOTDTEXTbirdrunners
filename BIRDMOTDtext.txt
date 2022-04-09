@@ -1,4 +1,5 @@
 Photon is out! 
-Have some fun with Haptics and names!
+Have some fun with Haptics, flying, and names!
+Hold "A" and flap both your claws to fly!!
 Quest users are unable to change their name as of now.
 If the world is messed up for you, restart your game and it should work :)
