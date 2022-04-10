@@ -1,21 +1,21 @@
 
 
-1 Caspian_vr - 21 seconds
+1 Fish_vr - 21.4
 
-2 [PDP] AG - 23.54 seconds
+2 Caspian_vr - 21.35 seconds
 
-3 WoodsyZ - 27.34 seconds
+3 [PDP] AG - 23.54 seconds
 
-4 Gmask - 29 seconds
+4 WoodsyZ - 27.34 seconds
 
-5 llama_vr - 30 seconds
+5 Gmask - 29 seconds
 
-6 MTYogurt - 33 seconds
+6 llama_vr - 30 seconds
 
-7 kevinthecelt - 33 seconds
+7 MTYogurt - 33 seconds
 
-8 trifx - 41 seconds
+8 kevinthecelt - 33 seconds
 
-9 [TONG] EwYellow - 43 seconds
+9 trifx - 41 seconds
 
-10
+10 [TONG] EwYellow - 43 seconds
