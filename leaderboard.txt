@@ -1,6 +1,6 @@
 
 
-1 Fish_vr - 21.4
+1 Fish_vr - 21.2
 
 2 Caspian_vr - 21.35 seconds
 
