@@ -1,4 +1,3 @@
-- TUTORIAL ROOM!!11! WOOOOOOOOOOOOO
-- Fixed out of map glitches
-- New boards that show bird runners Discord and stuff
-- Seeds balance which is broken ill fix that in a second
+- Added turning which is tweakable in the home room!
+
+To update your game, plug in your Oculus Quest to any device you used to install the game and press the install button again!
